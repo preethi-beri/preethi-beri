@@ -1,35 +1,30 @@
 <h1 align="center">Hi 👋, I'm Preethi Beri</h1>
 
 <h3 align="center">
-AI/ML Enthusiast • Data Science Student • Future Data Engineer
+AI/ML Enthusiast | Data Science Student | Aspiring Data Engineer
 </h3>
 
 <p align="center">
-Turning data into insights and building AI-powered solutions.
+Passionate about building AI-powered solutions using Machine Learning, Generative AI, Data Science, and Automation Testing.
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/preethi-beri">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/preethi-beri">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
 🎓 B.Tech Computer Science & Data Science Student
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Automation Testing.
-
-🌱 Currently exploring:
+🌱 Currently learning:
 
 - Machine Learning
 - Generative AI
-- LangChain & RAG
+- Retrieval-Augmented Generation (RAG)
 - Data Engineering
 - Automation Testing
 
@@ -37,46 +32,23 @@ Turning data into insights and building AI-powered solutions.
 
 To build intelligent AI systems and data-driven solutions that solve real-world problems.
 
----
+💼 Looking for:
 
-# 🏆 Featured Project
-
-## 🤖 AI PDF Question Answering Assistant
-
-An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask intelligent questions about their content.
-
-### Technologies Used
-
-- Python
-- LangChain
-- FAISS
-- Streamlit
-- OpenRouter API
-- Sentence Transformers
-
-### Highlights
-
-✅ Retrieval-Augmented Generation (RAG)
-
-✅ Semantic Search
-
-✅ Vector Database (FAISS)
-
-✅ Large Language Models (LLMs)
-
-✅ Interactive Streamlit UI
+- AI/ML Internships
+- Data Science Internships
+- Software Testing Opportunities
 
 ---
 
 # 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Data Science & AI
+### Artificial Intelligence & Data Science
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -94,24 +66,39 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that allows users
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📌 Other Projects
+# 🚀 Featured Projects
 
-### 💳 Credit Card Fraud Detection
+## 🤖 AI PDF Question Answering Assistant
 
-Machine Learning project that identifies fraudulent transactions using classification algorithms and data preprocessing techniques.
+Built a Retrieval-Augmented Generation (RAG) application using LangChain, FAISS, OpenRouter API, and Streamlit that enables intelligent question answering from PDF documents.
 
-### 🛒 E-Commerce Testing Framework
+**Tech Used:** Python, LangChain, FAISS, Streamlit, OpenRouter API, Sentence Transformers
 
-Automated testing framework developed using Selenium WebDriver and Python.
+---
+
+## 💳 Credit Card Fraud Detection
+
+Machine Learning project that detects fraudulent credit card transactions using classification algorithms and data preprocessing techniques.
+
+**Tech Used:** Python, Pandas, NumPy, Scikit-Learn
+
+---
+
+## 🛒 E-Commerce Testing Framework
+
+Developed Selenium WebDriver automation scripts for Login Testing, Cart Validation, Logout Validation, and Functional Testing.
+
+**Tech Used:** Python, Selenium WebDriver, Manual Testing
 
 ---
 
 # 📜 Certifications
 
-🏅 J.P. Morgan Quantitative Research Virtual Experience
+🏅 J.P. Morgan Quantitative Research Virtual Experience Program
 
 🏅 AI & Machine Learning Certifications
 
@@ -121,12 +108,13 @@ Automated testing framework developed using Selenium WebDriver and Python.
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 Current Focus
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=preethi-beri&show_icons=true&theme=radical"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-beri&layout=compact&theme=radical"/>
-</p>
+- Building AI & Machine Learning Projects
+- Learning Generative AI Applications
+- Exploring Data Engineering Concepts
+- Strengthening Data Structures & Algorithms
+- Improving Automation Testing Skills
 
 ---
 
@@ -138,4 +126,6 @@ Automated testing framework developed using Selenium WebDriver and Python.
 
 ---
 
-⭐ Building, Learning, and Growing Every Day.
+<h3 align="center">
+⭐ Building • Learning • Growing Every Day ⭐
+</h3>
