@@ -1,29 +1,26 @@
 <h1 align="center">Hi 👋, I'm Preethi Beri</h1>
 
 <h3 align="center">
-AI/ML Enthusiast • Data Science Student • Aspiring Data Engineer
+AI/ML Enthusiast | Data Science Student | Aspiring Data Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Generative+AI+Learner;Data+Science+Student;Automation+Testing+Explorer" />
+Passionate about Artificial Intelligence, Machine Learning, Data Science, and Automation Testing.
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/preethi-beri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=preethi-beri&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
 </p>
 
 ---
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
 🎓 B.Tech Computer Science & Data Science Student
 
-🤖 Passionate about:
+💡 Interested in:
 
 - Artificial Intelligence
 - Machine Learning
@@ -33,121 +30,110 @@ AI/ML Enthusiast • Data Science Student • Aspiring Data Engineer
 
 🌱 Currently Learning:
 
-- LangChain
-- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- LangChain & RAG
 - Data Engineering
-- Advanced Machine Learning
+- Automation Testing
 
-💼 Looking for:
+💼 Looking For:
 
 - AI/ML Internships
 - Data Science Internships
-- QA Automation Opportunities
+- Software Testing Opportunities
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
 ### AI & Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=flat-square)
 
-Machine Learning • Pandas • NumPy • Scikit-Learn • LangChain • FAISS • RAG • NLP
+### Databases
 
-### Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### Testing & Tools
 
-Selenium WebDriver • Streamlit
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=preethi-beri&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=preethi-beri&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-beri&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI PDF Question Answering Assistant
 
-AI-powered Retrieval-Augmented Generation (RAG) application using:
+Built a Retrieval-Augmented Generation (RAG) application using LangChain, FAISS, OpenRouter API, and Streamlit to enable intelligent question answering from PDF documents.
 
-- LangChain
-- FAISS
-- OpenRouter API
-- Streamlit
-- Sentence Transformers
-
-⭐ Upload PDFs and ask intelligent questions from document content.
-
----
+**Technologies:** Python, LangChain, FAISS, Streamlit, OpenRouter API
 
 ### 💳 Credit Card Fraud Detection
 
-Machine Learning model for identifying fraudulent transactions using classification algorithms and data preprocessing.
+Machine Learning project that identifies fraudulent transactions using classification algorithms and data preprocessing techniques.
 
----
+**Technologies:** Python, Pandas, NumPy, Scikit-Learn
 
 ### 🛒 E-Commerce Testing Framework
 
-Selenium WebDriver automation framework for:
+Developed Selenium WebDriver automation scripts for Login Testing, Cart Validation, Logout Validation, and Functional Testing.
 
-- Login Testing
-- Cart Validation
-- Logout Validation
-- Functional Testing
+**Technologies:** Python, Selenium WebDriver
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-🏅 J.P. Morgan Quantitative Research Virtual Experience Program
-
-🏅 AI & Machine Learning Certifications
-
-🏅 Data Science Certifications
-
-🏅 Internship Completion Certificates
+- J.P. Morgan Quantitative Research Virtual Experience Program
+- AI & Machine Learning Certifications
+- Data Science Certifications
+- Internship Completion Certificates
 
 ---
 
-# 🎯 2026 Goals
-
-- Build Production-Level AI Projects
-- Master Generative AI & RAG
-- Strengthen DSA Skills
-- Secure AI/ML Internship
-- Contribute to Open Source
-
----
-
-# 🌐 Connect With Me
+## 📊 GitHub Statistics
 
 <p align="center">
-<a href="https://www.linkedin.com/in/preethi-beri">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=preethi-beri&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-⭐ Building • Learning • Growing Every Day ⭐
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-beri&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building AI & Machine Learning Projects
+- Exploring Generative AI Applications
+- Learning Data Engineering Concepts
+- Strengthening Problem-Solving Skills
+- Preparing for AI/ML Internship Opportunities
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/preethi-beri
+
+📍 India
+
+---
+
+<p align="center">
+⭐ Building • Learning • Growing Every Day
 </p>
