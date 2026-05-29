@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Preethi Beri</h1>
 
 <h3 align="center">
-AI/ML Enthusiast | Data Science Student | Aspiring Data Engineer
+AI/ML Enthusiast • Data Science Student • Aspiring Data Engineer
 </h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Data Science, and Automation Testing.
+Building intelligent solutions with Machine Learning, Generative AI, Data Science, and Automation Testing.
 </p>
 
 <p align="center">
@@ -20,22 +20,21 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and Au
 
 🎓 B.Tech Computer Science & Data Science Student
 
-💡 Interested in:
+🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Data Science
-- Automation Testing
-
-🌱 Currently Learning:
+🌱 Currently Learning
 
 - Machine Learning
-- LangChain & RAG
+- Retrieval-Augmented Generation (RAG)
 - Data Engineering
 - Automation Testing
+- SQL & Database Management
 
-💼 Looking For:
+🎯 Career Goal
+
+To build AI-powered applications and data-driven solutions that create real-world impact.
+
+💼 Open To
 
 - AI/ML Internships
 - Data Science Internships
@@ -43,9 +42,35 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and Au
 
 ---
 
+## 🚀 Featured Projects
+
+### 🤖 AI PDF Question Answering Assistant
+
+Built a Retrieval-Augmented Generation (RAG) application using LangChain, FAISS, OpenRouter API, and Streamlit that enables intelligent question answering from PDF documents.
+
+**Tech Stack:** Python, LangChain, FAISS, Streamlit, OpenRouter API, Sentence Transformers
+
+---
+
+### 💳 Credit Card Fraud Detection
+
+Developed a Machine Learning model to identify fraudulent credit card transactions using classification algorithms and data preprocessing techniques.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
+
+---
+
+### 🛒 E-Commerce Testing Framework
+
+Implemented Selenium WebDriver automation scripts for Login Testing, Cart Validation, Logout Validation, and Functional Testing.
+
+**Tech Stack:** Python, Selenium WebDriver, Manual Testing
+
+---
+
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -56,7 +81,7 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and Au
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=flat-square)
 
@@ -73,46 +98,15 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and Au
 
 ---
 
-## 🚀 Featured Projects
+## 📜 Certifications
 
-### 🤖 AI PDF Question Answering Assistant
+🏅 J.P. Morgan Quantitative Research Virtual Experience Program
 
-Built a Retrieval-Augmented Generation (RAG) application using LangChain, FAISS, OpenRouter API, and Streamlit to enable intelligent question answering from PDF documents.
+🏅 AI & Machine Learning Certifications
 
-**Technologies:** Python, LangChain, FAISS, Streamlit, OpenRouter API
+🏅 Data Science Certifications
 
-### 💳 Credit Card Fraud Detection
-
-Machine Learning project that identifies fraudulent transactions using classification algorithms and data preprocessing techniques.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-Learn
-
-### 🛒 E-Commerce Testing Framework
-
-Developed Selenium WebDriver automation scripts for Login Testing, Cart Validation, Logout Validation, and Functional Testing.
-
-**Technologies:** Python, Selenium WebDriver
-
----
-
-## 🏆 Certifications
-
-- J.P. Morgan Quantitative Research Virtual Experience Program
-- AI & Machine Learning Certifications
-- Data Science Certifications
-- Internship Completion Certificates
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=preethi-beri&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-beri&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+🏅 Internship Completion Certificates
 
 ---
 
@@ -121,8 +115,8 @@ Developed Selenium WebDriver automation scripts for Login Testing, Cart Validati
 - Building AI & Machine Learning Projects
 - Exploring Generative AI Applications
 - Learning Data Engineering Concepts
-- Strengthening Problem-Solving Skills
-- Preparing for AI/ML Internship Opportunities
+- Strengthening Problem Solving Skills
+- Improving Automation Testing Expertise
 
 ---
 
@@ -134,6 +128,6 @@ Developed Selenium WebDriver automation scripts for Login Testing, Cart Validati
 
 ---
 
-<p align="center">
-⭐ Building • Learning • Growing Every Day
-</p>
+<h3 align="center">
+⭐ Building • Learning • Growing Every Day ⭐
+</h3>
