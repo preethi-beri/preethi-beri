@@ -1,153 +1,141 @@
 <h1 align="center">Hi 👋, I'm Preethi Beri</h1>
 
+<h3 align="center">
+AI/ML Enthusiast • Data Science Student • Future Data Engineer
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Data+Science+Student;Python+Developer;Automation+Testing+Learner;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+Turning data into insights and building AI-powered solutions.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/preethi-beri">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/preethi-beri">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 About Me
 
 🎓 B.Tech Computer Science & Data Science Student
 
-🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science
+🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Automation Testing.
 
-🐍 Skilled in Python Programming
+🌱 Currently exploring:
 
-🧪 Learning Manual Testing & Automation Testing using Selenium
+- Machine Learning
+- Generative AI
+- LangChain & RAG
+- Data Engineering
+- Automation Testing
 
-📊 Passionate about solving real-world problems through technology
+🎯 Career Goal:
 
-🌱 Currently exploring AI Applications, Testing Frameworks, and Data Analytics
-
-🚀 Goal: Become an AI/ML Engineer and Software Developer
+To build intelligent AI systems and data-driven solutions that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+# 🏆 Featured Project
 
-### Programming Languages
+## 🤖 AI PDF Question Answering Assistant
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-</p>
+An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask intelligent questions about their content.
+
+### Technologies Used
+
+- Python
+- LangChain
+- FAISS
+- Streamlit
+- OpenRouter API
+- Sentence Transformers
+
+### Highlights
+
+✅ Retrieval-Augmented Generation (RAG)
+
+✅ Semantic Search
+
+✅ Vector Database (FAISS)
+
+✅ Large Language Models (LLMs)
+
+✅ Interactive Streamlit UI
+
+---
+
+# 🛠️ Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Data Science & AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://cdn.simpleicons.org/pandas/150458" height="48">
-<img src="https://cdn.simpleicons.org/numpy/013243" height="48">
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge)
 
-### Web & Tools
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Testing
+### Testing & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=selenium" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📄 AI PDF Question Answering Assistant
-
-🔹 AI-powered PDF Question Answering System
-
-🔹 Built using LangChain, FAISS, Streamlit, and Google Gemini
-
-🔹 Retrieves relevant information from uploaded PDFs
-
-🔹 Uses Retrieval-Augmented Generation (RAG)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🧪 E-Commerce Website Testing Project
+# 📌 Other Projects
 
-🔹 Manual Testing Documentation
+### 💳 Credit Card Fraud Detection
 
-🔹 Test Cases
+Machine Learning project that identifies fraudulent transactions using classification algorithms and data preprocessing techniques.
 
-🔹 Bug Reports
+### 🛒 E-Commerce Testing Framework
 
-🔹 Test Scenarios
-
-🔹 QA Documentation
+Automated testing framework developed using Selenium WebDriver and Python.
 
 ---
 
-### 🤖 Automation Testing Framework
+# 📜 Certifications
 
-🔹 Selenium WebDriver with Python
+🏅 J.P. Morgan Quantitative Research Virtual Experience
 
-🔹 Login Testing
+🏅 AI & Machine Learning Certifications
 
-🔹 Add-to-Cart Validation
+🏅 Data Science Certifications
 
-🔹 Logout Testing
-
-🔹 Browser Automation
+🏅 Internship Completion Certificates
 
 ---
 
-## 📚 Currently Learning
-
-- Machine Learning
-- Artificial Intelligence
-- Data Analytics
-- Selenium Automation Testing
-- Advanced Python
-- SQL & Databases
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=preethi-beri&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-beri&layout=compact&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=preethi-beri&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-beri&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=preethi-beri&theme=tokyonight" />
-</p>
+💼 LinkedIn: www.linkedin.com/in/preethi-beri
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=preethi-beri&theme=tokyonight&row=1&column=6" />
-</p>
+📍 India
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/preethi-beri">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+⭐ Building, Learning, and Growing Every Day.
