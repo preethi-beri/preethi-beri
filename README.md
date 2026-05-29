@@ -1,102 +1,124 @@
 <h1 align="center">Hi 👋, I'm Preethi Beri</h1>
 
 <h3 align="center">
-AI/ML Enthusiast | Data Science Student | Aspiring Data Engineer
+AI/ML Enthusiast • Data Science Student • Aspiring Data Engineer
 </h3>
 
 <p align="center">
-Passionate about building AI-powered solutions using Machine Learning, Generative AI, Data Science, and Automation Testing.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Generative+AI+Learner;Data+Science+Student;Automation+Testing+Explorer" />
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/preethi-beri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=preethi-beri&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 About Me
 
 🎓 B.Tech Computer Science & Data Science Student
 
-🌱 Currently learning:
+🤖 Passionate about:
 
+- Artificial Intelligence
 - Machine Learning
 - Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Data Engineering
+- Data Science
 - Automation Testing
 
-🎯 Career Goal:
+🌱 Currently Learning:
 
-To build intelligent AI systems and data-driven solutions that solve real-world problems.
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Data Engineering
+- Advanced Machine Learning
 
 💼 Looking for:
 
 - AI/ML Internships
 - Data Science Internships
-- Software Testing Opportunities
+- QA Automation Opportunities
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
 
-### Artificial Intelligence & Data Science
+### AI & Data Science
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### Databases
+Machine Learning • Pandas • NumPy • Scikit-Learn • LangChain • FAISS • RAG • NLP
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools
 
-### Testing & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Selenium WebDriver • Streamlit
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=preethi-beri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=preethi-beri&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-beri&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI PDF Question Answering Assistant
+### 🤖 AI PDF Question Answering Assistant
 
-Built a Retrieval-Augmented Generation (RAG) application using LangChain, FAISS, OpenRouter API, and Streamlit that enables intelligent question answering from PDF documents.
+AI-powered Retrieval-Augmented Generation (RAG) application using:
 
-**Tech Used:** Python, LangChain, FAISS, Streamlit, OpenRouter API, Sentence Transformers
+- LangChain
+- FAISS
+- OpenRouter API
+- Streamlit
+- Sentence Transformers
 
----
-
-## 💳 Credit Card Fraud Detection
-
-Machine Learning project that detects fraudulent credit card transactions using classification algorithms and data preprocessing techniques.
-
-**Tech Used:** Python, Pandas, NumPy, Scikit-Learn
+⭐ Upload PDFs and ask intelligent questions from document content.
 
 ---
 
-## 🛒 E-Commerce Testing Framework
+### 💳 Credit Card Fraud Detection
 
-Developed Selenium WebDriver automation scripts for Login Testing, Cart Validation, Logout Validation, and Functional Testing.
-
-**Tech Used:** Python, Selenium WebDriver, Manual Testing
+Machine Learning model for identifying fraudulent transactions using classification algorithms and data preprocessing.
 
 ---
 
-# 📜 Certifications
+### 🛒 E-Commerce Testing Framework
+
+Selenium WebDriver automation framework for:
+
+- Login Testing
+- Cart Validation
+- Logout Validation
+- Functional Testing
+
+---
+
+# 🏆 Certifications
 
 🏅 J.P. Morgan Quantitative Research Virtual Experience Program
 
@@ -108,24 +130,24 @@ Developed Selenium WebDriver automation scripts for Login Testing, Cart Validati
 
 ---
 
-# 🎯 Current Focus
+# 🎯 2026 Goals
 
-- Building AI & Machine Learning Projects
-- Learning Generative AI Applications
-- Exploring Data Engineering Concepts
-- Strengthening Data Structures & Algorithms
-- Improving Automation Testing Skills
+- Build Production-Level AI Projects
+- Master Generative AI & RAG
+- Strengthen DSA Skills
+- Secure AI/ML Internship
+- Contribute to Open Source
 
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/preethi-beri
+<p align="center">
+<a href="https://www.linkedin.com/in/preethi-beri">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
-📍 India
-
----
-
-<h3 align="center">
+<p align="center">
 ⭐ Building • Learning • Growing Every Day ⭐
-</h3>
+</p>
