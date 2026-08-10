@@ -1,142 +1,192 @@
-<h1 align="center">Hi 👋, I'm Preethi Beri</h1>
+# Hi, I'm Preethi Beri 👋
 
-<h3 align="center">
-AI/ML Enthusiast • Data Science Student • Aspiring Data Engineer
-</h3>
+### B.Tech Computer Science & Data Science | JNTU-GV
 
-<p align="center">
-Building intelligent solutions using Machine Learning, Generative AI, Data Science, and Automation Testing.
-</p>
+I am a Computer Science & Data Science student who enjoys understanding how
+technology works and turning what I learn into practical solutions.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/preethi-beri">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+My main interests are **Artificial Intelligence, Machine Learning, Generative AI,
+Backend Development, Data Analytics, and Cloud Technologies**.
+
+Rather than limiting myself to one area, I like working across the complete
+problem-solving process — understanding the problem, working with data,
+building the model or application, developing APIs, and making the solution
+usable.
 
 ---
 
-# 🚀 Featured Projects
+## About Me
 
-## 🤖 AI PDF Question Answering Assistant
+- 🎓 B.Tech Computer Science & Data Science student at **JNTU-GV**
+- 💻 Interested in **AI/ML, Generative AI, Backend Development and Data**
+- 🐍 Comfortable working with **Python, SQL and Java**
+- 🤖 Building applications using **Machine Learning, RAG, LangChain and FAISS**
+- ⚙️ Developing backend services using **FastAPI and REST APIs**
+- 🗄️ Working with **PostgreSQL** for data storage and application development
+- 📊 Creating data-driven dashboards using **Power BI and DAX**
+- ☁️ Exploring **Cloud Computing and OCI**
+- 🐳 Using **Docker, Git and GitHub** for development and project management
 
-Built a Retrieval-Augmented Generation (RAG) application using LangChain, FAISS, OpenRouter API, and Streamlit that enables intelligent question answering from PDF documents.
+---
 
-**Tech Stack:** Python, LangChain, FAISS, Streamlit, OpenRouter API, Sentence Transformers
+## What I Like Building
 
-### Key Features
+I am particularly interested in projects where different areas of technology
+come together.
 
-- PDF Upload & Processing
+### Artificial Intelligence & Generative AI
+
+I enjoy building practical AI applications rather than working only with
+theory.
+
+Some areas I have explored:
+
+- Machine Learning applications
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
 - Semantic Search
-- Vector Database using FAISS
-- Retrieval-Augmented Generation (RAG)
-- Context-Aware AI Responses
-- Streamlit Web Interface
+- Vector Databases
+- LangChain
+- FAISS
+
+### Backend & Applications
+
+I like turning models and ideas into usable applications through:
+
+- FastAPI
+- REST APIs
+- PostgreSQL
+- Docker
+- Modular application design
+
+### Data & Analytics
+
+I also enjoy understanding data and converting it into useful information through:
+
+- SQL
+- PostgreSQL
+- Power BI
+- DAX
+- Data Visualization
+- Business Analytics
 
 ---
 
-## 💳 Credit Card Fraud Detection
+## Projects
 
-Machine Learning project for detecting fraudulent credit card transactions using classification algorithms and data preprocessing techniques.
+### 🤖 AI PDF Question Answering Assistant
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
+A Generative AI application that allows users to ask questions about PDF
+documents and receive context-aware answers using Retrieval-Augmented
+Generation.
 
----
-
-## 🛒 E-Commerce Testing Framework
-
-Developed Selenium WebDriver automation scripts for Login Testing, Cart Validation, Logout Validation, and Functional Testing.
-
-**Tech Stack:** Python, Selenium WebDriver, Manual Testing
+**Built with:** Python, LangChain, FAISS, RAG, FastAPI
 
 ---
 
-# 👩‍💻 About Me
+### 📊 Customer Churn Prediction & Retention Engine
 
-🎓 B.Tech Computer Science & Data Science Student
+An end-to-end Machine Learning application that predicts customer churn and
+generates personalized retention recommendations.
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
+**Built with:** Python, Scikit-learn, FastAPI, PostgreSQL, Docker
 
-🌱 Currently Learning
+---
 
-- Machine Learning
-- Retrieval-Augmented Generation (RAG)
+### 📈 SaaS Revenue & Customer Analytics Dashboard
+
+An interactive analytics solution for understanding SaaS revenue, customer
+churn, retention and subscription performance.
+
+**Built with:** PostgreSQL, SQL, Power BI, DAX
+
+---
+
+## Technical Skills
+
+**Languages**
+
+Python · Java · SQL
+
+**AI / ML**
+
+Machine Learning · Scikit-learn · Generative AI · RAG · LangChain · FAISS ·
+Pandas · NumPy
+
+**Backend**
+
+FastAPI · REST APIs · PostgreSQL
+
+**Data & Analytics**
+
+Power BI · DAX · Streamlit · Data Visualization
+
+**Cloud & Tools**
+
+Oracle Cloud Infrastructure · Docker · Git · GitHub · VS Code
+
+---
+
+## My Approach
+
+I believe that learning technology is most valuable when it leads to something
+that can actually be built, tested and improved.
+
+So whenever I learn a new concept, I try to take it beyond notes and tutorials
+and use it in a project.
+
+I am currently focused on becoming better at:
+
+**Writing better code → understanding systems → building useful applications
+→ learning from real problems.**
+
+---
+
+## Currently Exploring
+
+- Generative AI applications
+- RAG systems and AI-powered search
+- AI agents and intelligent applications
+- Cloud-based application development
+- Backend engineering
 - Data Engineering
-- Automation Testing
-- SQL & Database Management
-
-🎯 Career Goal
-
-To build AI-powered applications and data-driven solutions that create real-world impact.
-
-💼 Looking For
-
-- AI/ML Internships
-- Data Science Internships
-- Software Testing Opportunities
+- Production-oriented AI systems
 
 ---
 
-# 🛠️ Technical Skills
+## Education
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### AI & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Testing & Tools
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**B.Tech – Computer Science & Data Science**  
+JNTU-GV  
+CGPA: **8.3 / 10**
 
 ---
 
-# 📜 Certifications
+## Certifications
 
-🏅 J.P. Morgan Quantitative Research Virtual Experience Program
-
-🏅 AI & Machine Learning Certifications
-
-🏅 Data Science Certifications
-
-🏅 Internship Completion Certificates
+- Oracle Cloud Infrastructure (OCI) AI Foundations Associate
+- IBM AI Fundamentals
+- Deloitte Australia – Data Analytics Job Simulation
+- JPMorgan Chase & Co. – Quantitative Research Virtual Experience
 
 ---
 
-# 🎯 Current Focus
+## Connect With Me
 
-- Building AI & Machine Learning Projects
-- Exploring Generative AI Applications
-- Learning Data Engineering Concepts
-- Improving Automation Testing Skills
-- Strengthening Problem Solving Skills
+📧 **Email:** preethiberi2611@gmail.com
 
----
+💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 
-# 🌐 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/preethi-beri
-
-📍 India
+💻 **GitHub:** [Explore my projects](YOUR_GITHUB_URL)
 
 ---
 
-<h3 align="center">
-⭐ Building • Learning • Growing Every Day ⭐
-</h3>
+### A little about how I see my journey
+
+I am still a student, and I don't claim to know everything.
+
+What I do have is curiosity, consistency, and the willingness to learn by
+building.
+
+My goal is to keep improving one project, one concept and one problem at a
+time — and eventually build technology that is genuinely useful.
